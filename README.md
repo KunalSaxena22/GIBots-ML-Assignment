@@ -2,7 +2,30 @@
 
 # Getting Started
 
-## How to Use the Repository
+## Introduction of ML Text Classification
+
+This repository contains code for developing a machine learning model to predict the probability of text belonging to specific classes. The project utilizes techniques like Bag of Words, TF-IDF vectorization, and word embeddings, and explores the use of the Hash field value.
+
+## Data
+- `train.csv`: Features for the training set
+- `trainLabels.csv`: Labels for the training set
+- `test.csv`: Features for the test set
+- `sampleSubmission.csv`: Example submission format
+
+## Features
+- Content: Text hash
+- Parsing: N-gram type (number, text, alphanumeric)
+- Spatial: N-gram position and size
+- Relational: Nearby text details
+
+## Labels
+Multi-label classification problem where a sample can belong to multiple classes.
+
+## Objective
+Develop a machine learning model to accurately predict the probabilities of text samples belonging to different classes using the provided features and labels.
+
+
+# How to Use the Repository
 
 ## Step 1: Clone the Repository
 
