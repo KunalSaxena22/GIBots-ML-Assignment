@@ -1,15 +1,15 @@
 # GIBots-ML-Assignment
 
-## Getting Started
+# Getting Started
 
-# How to Use the Repository
+## How to Use the Repository
 
 ## Step 1: Clone the Repository
 
 First, you need to clone the GitHub repository containing the code to your local machine. Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command:
 
 ```bash
-git clone https://github.com/[username]/[repository-name].git
+https://github.com/KunalSaxena22/GIBots-ML-Assignment.git
 ```
 
 ## Step 2: Install Required Libraries
@@ -17,7 +17,7 @@ git clone https://github.com/[username]/[repository-name].git
 After cloning the repository, navigate to the cloned directory:
 
 ```bash
-cd [repository-name]
+cd GIBots-ML-Assignment
 ```
 
 Before running the code, you need to ensure that you have installed the required libraries. Open the `requirements.txt` file in the repository and note down the libraries listed there.
